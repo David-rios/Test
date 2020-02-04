@@ -1,4 +1,6 @@
 ## Example R script 
+fun1 <- function(a){
+  a + 2
+}
 
-2 + 2 
-# s
+#othr  modifications
